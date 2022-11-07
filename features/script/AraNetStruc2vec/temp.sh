@@ -1,0 +1,1 @@
+python generate_struc2vec.py
