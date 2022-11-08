@@ -1,7 +1,7 @@
 # AraPathogen2.0
 plant-pathogen interaction prediction
 
-1.generate features
+1. generate features
 run features/scripts/* to generate features
 command are in temp.sh
 
